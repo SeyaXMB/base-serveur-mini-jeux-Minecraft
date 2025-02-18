@@ -1,5 +1,7 @@
 # Base serveur mini-jeux Minecraft
 
+[Conseille faire tout sa sur un linux brute]
+
 # Installation du serveur Minecraft avec mini-jeux
 
 # 1. Création du dossier du serveur
